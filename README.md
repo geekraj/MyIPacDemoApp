@@ -13,3 +13,7 @@ Bellow are the Functionalities covered in this application
  9. Custom fonts are used
  10. All the pictures not saved in local db for memory constraints
  11. Coroutines
+ 
+ Note: Given baground color to User image for differentiating Gender 
+ -> Light pink is for Female
+ -> Green is for Male
