@@ -1,6 +1,7 @@
 # MyIPacDemoApp
 MyIPac Demo application
-Functionalities covered in this application
+
+Bellow are the Functionalities covered in this application
  1. Used android jetpack components
  2. Databinding
  3. View Binding
@@ -11,4 +12,4 @@ Functionalities covered in this application
  8. Room database for local data storage
  9. Custom fonts are used
  10. All the pictures not saved in local db for memory constraints
- 
+ 11. Coroutines
