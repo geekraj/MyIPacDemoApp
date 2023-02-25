@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyIPac</string>
+    <string name="no_network_connectivity">"No internet, please try again"</string>
+    <string name="uses_details">All users</string>
+    <string name="user_address">User address</string>
+    <string name="address">Address</string>
+    <string name="street">Street:</string>
+    <string name="city">City:</string>
+    <string name="state">State:</string>
+    <string name="country">Country:</string>
+    <string name="postal_code">Postal code</string>
+</resources>
